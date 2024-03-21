@@ -26,3 +26,5 @@ This is an analysis of the LEGO Sets available on LEGO webpage on 20/3/2024. We 
 
 
 
+## DATA CONTEXT
+### What is a Lego set?
