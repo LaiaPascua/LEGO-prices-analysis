@@ -1,6 +1,6 @@
-LEGO prices analysis
+# LEGO prices analysis
 
-DATA SOURCES
+## DATA SOURCES
 
 |File               |Source      |Link                                                  |Notes                            |
 |-------------------|------------|------------------------------------------------------|---------------------------------|
