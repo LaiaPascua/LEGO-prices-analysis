@@ -29,13 +29,16 @@ This is an analysis of the LEGO Sets available on LEGO webpage on 20/3/2024. We 
 ## DATA CONTEXT
 ### What is a Lego set?
 ![Example of LLEGO set](LegoSet.png)
+
 Is a box containing LEGO parts and in some cases minifigures, to assemble one or several constructions.
 
 ### What is a LEGO Minifigure?
 ![Example of LEGO Minifigure](Minifigure.png)
+
 A minifigure is a humanoid character included in some LEGO sets. It is formed by diferent LEGO parts
 
 ### What is a LEGO part?
 ![Example of LEGO parts](Lego_parts.jpg)
+
 Building blocks that allow the user to make constructions. They are indivisible.
 
